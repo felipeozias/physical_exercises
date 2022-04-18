@@ -6,7 +6,7 @@
 
 ### 🟠 ⚠ Esse site ainda está em desenvolvimento, portando não tem todos os exercícios para os grupos musculares nem a tabela nutricional de acompanhamento ⚠ 
 
-### 🟢 <a href="https://wa.me/5584998472241" targent="blank">WhatsApp</a> 🟢
+### 🟢 <a href="https://wa.me/5584998472241" targent="_blank">WhatsApp</a> 🟢
 
 </br>
 
